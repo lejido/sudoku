@@ -6,4 +6,5 @@ Just wanted to play around with backtracking and python, this is a terrible solv
 - implement an actual board generator 
 - implement other solving algorithms (maybe stochastic algo)? 
 - fix up backtracking algorithm, probably has some unnecessary steps 
+- boards of any size 
 - eventually implement a good soduku library 
